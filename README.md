@@ -1,6 +1,6 @@
 # Excel:-Sales & Finance Report
 
-## Sales Report
+# Sales Report
 
 
 ### Objective 
@@ -21,7 +21,7 @@ In summary, sales analytics helps businesses make data-driven decisions, improve
 
 
 
-## Finance Report
+# Finance Report
 
 
 ### Objective
@@ -40,7 +40,7 @@ Financial reports align financial planning with strategic goals and instill conf
 In summary, financial analysis reports provide insights, support decision-making, and ensure transparent communication with stakeholders. They are essential for an organization's financial well-being.
 
 
-## Technical Skills
+# Technical Skills
 
 - ETL Proficiency
 - Date Table Creation
@@ -71,7 +71,7 @@ These skills elevate your data preparation, modeling, and insights, enhancing yo
 
 
 
-## Soft Skills Documentation
+# Soft Skills Documentation
 
 
 Enhance your report creation with these soft skills:
