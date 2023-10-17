@@ -71,7 +71,7 @@ These skills elevate your data preparation, modeling, and insights, enhancing yo
 
 
 
-# Soft Skills Documentation
+# Soft Skills 
 
 
 Enhance your report creation with these soft skills:
