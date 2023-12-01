@@ -52,23 +52,13 @@ These skills elevate your data preparation, modeling, and insights, enhancing yo
 
 
 
-
-
-
 ### Diagram View
 
-
-![App Screenshot](
-    https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/blob/main/Diagram%20View.png
-)
+![Diagram View](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/assets/120458113/ef5ad9ca-3386-4663-b054-dbbec1a8e19d)
 
 ### DAX Measure
 
-
-![App Screenshot](
-    https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/blob/main/DAX%20measure.png
-)
-
+![DAX measure](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/assets/120458113/77a7a75c-43f6-429a-8334-49353fbc714f)
 
 
 # Soft Skills 
