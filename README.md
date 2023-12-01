@@ -2,6 +2,7 @@
 
 # Sales Report
 
+[Customer Performance Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520827/Customer.Performance.Report.pdf)
 
 ### Objective 
 - Create a _[customer performance report](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/blob/main/Customer%20Performance%20Report.pdf)_ 
