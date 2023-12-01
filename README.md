@@ -2,7 +2,7 @@
 
 # Sales Report
 
-[Customer Performance Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520827/Customer.Performance.Report.pdf)
+
 
 ### Objective 
 - Create a _[customer performance report](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/blob/main/Customer%20Performance%20Report.pdf)_ 
@@ -73,3 +73,16 @@ Enhance your report creation with these soft skills:
 - Developing a systematic approach to report building plans
 
 These skills make your reports more meaningful and user-friendly.
+
+
+# PDF Download Link
+
+
+(If above report link is not working then use the following)
+
+- [Customer Performance Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520827/Customer.Performance.Report.pdf)
+- Designing user-centric reports with empathy
+- Optimization of report generation through fine-tuning
+- Developing a systematic approach to report building plans
+
+
