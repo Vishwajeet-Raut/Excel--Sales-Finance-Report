@@ -81,8 +81,12 @@ These skills make your reports more meaningful and user-friendly.
 (If above report link is not working then use the following)
 
 - [Customer Performance Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520827/Customer.Performance.Report.pdf)
-- Designing user-centric reports with empathy
-- Optimization of report generation through fine-tuning
-- Developing a systematic approach to report building plans
+- [Market Performance VS Target Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520870/Market.Performance.VS.Target.Report.pdf)
+- [P & L By Fiscal Year.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520871/P.L.By.Fiscal.Year.pdf)
+- [P & L By Months.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520873/P.L.By.Months.pdf)
+- [P & L By Markets.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520872/P.L.By.Markets.pdf)
+
+
+
 
 
