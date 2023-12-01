@@ -75,10 +75,10 @@ Enhance your report creation with these soft skills:
 These skills make your reports more meaningful and user-friendly.
 
 
-# PDF Download Link
+# Download the PDF here.
 
+(In case the link to the above report is not functional, please use the following link.)
 
-(If above report link is not working then use the following)
 
 - [Customer Performance Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520827/Customer.Performance.Report.pdf)
 - [Market Performance VS Target Report.pdf](https://github.com/Vishwajeet-Raut/Excel--Sales-Finance-Report/files/13520870/Market.Performance.VS.Target.Report.pdf)
